@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm now an intern at Tencent
-- 🌱 I’m currently learning CG at VCC, SZU
-
-[![wnkai's github stats](https://github-readme-stats.vercel.app/api?username=wnkai)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning CG at VCC @ SZU
