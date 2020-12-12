@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I'm now an intern at Tencent
-- 🌱 I’m currently learning CG at VCC @ SZU
